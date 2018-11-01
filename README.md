@@ -1,12 +1,12 @@
-# About project
+### About project
 
 Configuration of Ubuntu server for hosting a Python web application.
 
-# Platform
+### Platform
 
 Lightsail (Amazon Web Services)
 
-# How to connect server
+### How to connect server
 
 - IP Address: `35.159.25.149`
 
@@ -16,7 +16,7 @@ Lightsail (Amazon Web Services)
 
 - Grader user (server-side key is located in user default path)
 
-# About application
+### About application
 
 - Application repository: [Games Catalog](https://github.com/Helsh/gamecatalog)
 
@@ -24,11 +24,11 @@ Lightsail (Amazon Web Services)
 
 - WSGi to handle more requests
 
-# Apache configuration
+### Apache configuration
 
 
 
-# PIP packages installed on server:
+### PIP packages installed on server:
 
 - Flask
 
@@ -42,7 +42,7 @@ Lightsail (Amazon Web Services)
 
 - Urllib3
 
-# Ubuntu packages installed on server:
+### Ubuntu packages installed on server:
 
 - Ufw
 
