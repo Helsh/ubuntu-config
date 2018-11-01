@@ -8,17 +8,25 @@ Lightsail (Amazon Web Services)
 
 # How to connect server
 
-- IP Address: 35.159.25.149
+- IP Address: `35.159.25.149`
 
-- Port 2200 instead of 22
+- Port `2200` instead of `22`
 
 - SSH Key
 
 - Grader user (server-side key is located in user default path)
 
-# How to use application
+# About application
 
-Application with working Google OAuth: http://35.159.25.149.xip.io/
+- Application repository: [Games Catalog](https://github.com/Helsh/gamecatalog)
+
+- Application with working Google OAuth: http://35.159.25.149.xip.io/
+
+- WSGi to handle more requests
+
+# Apache configuration
+
+
 
 # PIP packages installed on server:
 
@@ -30,7 +38,7 @@ Application with working Google OAuth: http://35.159.25.149.xip.io/
 
 - OAuth2Client
 
-- Psycopg 2
+- Psycopg2
 
 - Urllib3
 
