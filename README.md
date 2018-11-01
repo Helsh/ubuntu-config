@@ -26,7 +26,13 @@ Lightsail (Amazon Web Services)
 
 ### Apache configuration
 
+- Application located in `/var/www`
 
+- Logs located in `/var/log/apache2`
+
+- Add `FlaskApp.conf` which specify `ServerName`, `WSGIScriptAlias`, paths to application directories and path to logs.
+
+- Changed ownership to `www-data` for `/var/www`
 
 ### PIP packages installed on server:
 
