@@ -55,3 +55,9 @@ Lightsail (Amazon Web Services)
 - Apache2
 
 - Finger
+
+## Third-party resources:
+
+- Google OAuth
+
+- DNS Wildcard (xip.io)
